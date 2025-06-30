@@ -19,7 +19,7 @@ Step 2: Start Wireshark and Select Interface
 <img src="images/2.png">
 
 Step 3: Generate Traffic
-- Visit a website: https://www.example.com
+- Visit a website: https://www.youtube.com
 - Use ping command:
   ```ping www.youtube.com```
 <img src="images/3.png">
